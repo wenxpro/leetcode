@@ -28,14 +28,20 @@ public class TreeNode {
         System.out.println(max);
     }
 
+    /**
+     * 树的最大高度
+     * @param node
+     * @return
+     */
     private static int dfs(TreeNode node) {
-        //递归调用
         if(node == null) {
             return 0;
         }
         int leftheight = dfs(node.left);
         int rightheight = dfs(node.right);
+        //末位 left right 为 0 每向上一层 +1
         int num = Math.max(leftheight, rightheight);
+        //高度 +1
         return num + 1;
     }
 
