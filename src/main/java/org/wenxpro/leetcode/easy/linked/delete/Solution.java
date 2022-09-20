@@ -1,7 +1,7 @@
-package org.wenxpro.linked.delete;
+package org.wenxpro.leetcode.easy.linked.delete;
 
-import org.wenxpro.MyUtil;
-import org.wenxpro.linked.ListNode;
+import org.wenxpro.leetcode.easy.MyUtil;
+import org.wenxpro.leetcode.easy.linked.ListNode;
 
 import java.util.LinkedList;
 

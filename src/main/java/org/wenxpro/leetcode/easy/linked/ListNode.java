@@ -1,4 +1,4 @@
-package org.wenxpro.linked;
+package org.wenxpro.leetcode.easy.linked;
 
 public class ListNode {
     public int val;

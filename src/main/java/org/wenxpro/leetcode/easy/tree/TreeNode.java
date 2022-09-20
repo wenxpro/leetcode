@@ -1,4 +1,4 @@
-package org.wenxpro.tree;
+package org.wenxpro.leetcode.easy.tree;
 
 public class TreeNode {
     int val;

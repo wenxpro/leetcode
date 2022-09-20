@@ -1,4 +1,4 @@
-package org.wenxpro.sort;
+package org.wenxpro.leetcode.easy.sort;
 
 public class SortTest {
 

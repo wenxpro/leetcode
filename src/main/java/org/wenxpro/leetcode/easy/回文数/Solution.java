@@ -1,4 +1,4 @@
-package org.wenxpro.leetcode.回文数;
+package org.wenxpro.leetcode.easy.回文数;
 
 public class Solution {
 

@@ -1,6 +1,4 @@
-package org.wenxpro.stack;
-
-import java.util.ArrayList;
+package org.wenxpro.leetcode.easy.stack;
 
 //数组实现栈
 public class ArrayStack {
