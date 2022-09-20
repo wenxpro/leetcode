@@ -1,6 +1,6 @@
-package org.wenxpro.leetcode.easy.linked.cycle;
+package org.wenxpro.struct.linked.cycle;
 
-import org.wenxpro.leetcode.easy.linked.ListNode;
+import org.wenxpro.struct.linked.ListNode;
 
 
 public class Solution {

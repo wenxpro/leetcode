@@ -1,4 +1,4 @@
-package org.wenxpro.leetcode.easy.queue;
+package org.wenxpro.struct.queue;
 
 //数组实现队列
 public class ArrayQueue {

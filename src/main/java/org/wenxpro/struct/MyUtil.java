@@ -1,6 +1,6 @@
-package org.wenxpro.leetcode.easy;
+package org.wenxpro.struct;
 
-import org.wenxpro.leetcode.easy.linked.ListNode;
+import org.wenxpro.struct.linked.ListNode;
 
 
 public class MyUtil {

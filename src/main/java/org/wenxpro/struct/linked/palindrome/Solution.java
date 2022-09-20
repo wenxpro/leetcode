@@ -1,7 +1,7 @@
-package org.wenxpro.leetcode.easy.linked.palindrome;
+package org.wenxpro.struct.linked.palindrome;
 
-import org.wenxpro.leetcode.easy.MyUtil;
-import org.wenxpro.leetcode.easy.linked.ListNode;
+import org.wenxpro.struct.MyUtil;
+import org.wenxpro.struct.linked.ListNode;
 
 import java.util.Stack;
 

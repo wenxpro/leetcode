@@ -1,4 +1,4 @@
-package org.wenxpro.leetcode.easy.stack;
+package org.wenxpro.struct.stack;
 
 //数组实现栈
 public class ArrayStack {
